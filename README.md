@@ -1,14 +1,12 @@
 # Timer
 
-This project helps you stay organized, you can create a checklist and check off the list of items.
+This project gets the current time.
 
 ## Working with:
-* onChange(),
-* onChangeEvent(),
-* onSubmit(),
-* onClick().
+* ComponentDidMount();
+* ComponentWillUnmount().
 
 ### Main folder
 
 Runs the app in the development mode.\
-Open (https://github.com/OlgaOlgaa/ToDoList.git) to view it in folder.
+Open (https://github.com/OlgaOlgaa/Timer.git) to view it in a folder.
